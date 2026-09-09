@@ -1,0 +1,20 @@
+[
+    {
+        "firstname" : "Admin0",
+        "lastname" : "Shopify",
+        "email" : "admin0@shop.com",
+        "password" : "999888@admin"
+    },
+    {
+        "firstname" : "Admin1",
+        "lastname" : "Shopify",
+        "email" : "admin1@shop.com",
+        "password" : "999888@admin"
+    },
+    {
+        "firstname" : "Admin2",
+        "lastname" : "Shopify",
+        "email" : "admin2@shop.com",
+        "password" : "999888@admin"
+    }
+]
