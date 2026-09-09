@@ -24,7 +24,7 @@ Repository Structure
 │   ├── invalid_data.json
 │   └── valid_data.json
 ├── playwright.config.js    # Playwright configuration file
-├── .gitattributes          # Line ending normalization (LF)
+├── .gitattributes          
 ├── .gitignore
 ├── package.json
 └── README.md
